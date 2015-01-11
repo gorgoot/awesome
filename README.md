@@ -1,1 +1,1 @@
-# awesome-git
+# awesome
